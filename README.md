@@ -1,5 +1,3 @@
-# Django-CRUD-using-generics-views
-CREATE, RETRIEVE, UPDATE, DELETE using Django generic views
 
 <div align="center">
 <h1>Django CRUD using Generics Views </div>
