@@ -46,7 +46,18 @@ Installing and setting up this app.
    cd mysite
    ```
 
-6. We are done! let's run the server
+6. Create a folder in the mysite/static
+   ```sh
+   mkdir static
+   ```
+
+
+7. Install bootstrap5 (to bootstrap5 active for crispy_forms)
+   ```sh
+   pip install crispy-bootstrap5
+   ```
+
+8. We are done! let's hit the server
    ```sh
    python manage.py runserver
    ```
