@@ -5,7 +5,7 @@
 
 ## About The Project
 <!-- ![Alt text](employee.gif) -->
-
+![Alt text](<mysite/static/Django CRUD.gif>)
 It is a basic CRUD app for employee management. Where user can Manage Employee such as Create employee, Show all employee, Delete employee, Update information of a invidual employee. This project is done using generic view.
 
 
